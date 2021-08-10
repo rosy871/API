@@ -1,0 +1,26 @@
+footer{
+    position: fixed;
+    color:cornsilk;
+    left: 0;
+    bottom: 1px;
+    width: 100%;
+}
+
+.imgclass{
+    border:  5px solid rgb(88, 13, 13);
+    border-radius: 25px; /* rounder corner border */
+    background: #d2df239f;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+   
+    
+    margin: 10px;
+    align: center;
+
+}
+
+#showResult{
+    height: 350px;
+    
+}

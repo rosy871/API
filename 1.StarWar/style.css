@@ -1,0 +1,17 @@
+footer{
+    position: fixed;
+    color:cornsilk;
+    left: 0;
+    bottom: 1px;
+    width: 100%;
+}
+
+#showResult{
+    width: 100%;
+    color:rgb(99, 58, 8);
+    font-size: 20px;
+    font-weight: 600;
+    
+
+   
+}
